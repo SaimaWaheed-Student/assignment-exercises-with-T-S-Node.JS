@@ -12,10 +12,10 @@
 //console.log(firstname.charAt(0).toUpperCase() +firstname.slice(1));
 
 //4 Famous Quote: Find a quote from a famous person you admire. Print the quote and the name of its author. Your output should look something like the following, including the quotat-ion marks:
-//console.log('Rashid manhaz shaeed said, "sher ki aik din ki zindagi gidder ki so sala zindagi se bhatr he."');
+//console.log('Rashid Minhas shaeed said, "sher ki aik din ki zindagi gidder ki so sala zindagi se bhatr he."');
 
 //5 Famous Quote 2: Repeat Exercise 4, but this time store the famous person’s name in a variable called famous_person. Then compose your message and store it in a new variable called message. Print your message.
-//let famous_person:string = "Rashid manhaz";
+//let famous_person:string = "Rashid Minhas";
 //let massage:string =
 //"sher ki aik din ki zindagi gidder ki so sala zindagi se bhatr he."
 //console.log(`${famous_person} said"${massage}`);
